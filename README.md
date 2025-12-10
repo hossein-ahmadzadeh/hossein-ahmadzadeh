@@ -4,14 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 June 2025 - To: 07 December 2025
+From: 09 June 2025 - To: 08 December 2025
 
-Total Time: 81 hrs 6 mins
+Total Time: 80 hrs 55 mins
 
-Python       68 hrs 49 mins  █████████████████████▒░░░   84.86 %
-Java         9 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Python       68 hrs 42 mins  █████████████████████▒░░░   84.91 %
+Java         9 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
 HTML         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Git Config   29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Git Config   25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 XML          19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
