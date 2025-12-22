@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 June 2025 - To: 19 December 2025
+From: 21 June 2025 - To: 20 December 2025
 
-Total Time: 27 hrs 47 mins
+Total Time: 25 hrs 43 mins
 
-Python       16 hrs 26 mins  ██████████████▓░░░░░░░░░░   59.15 %
-Java         9 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   34.17 %
-HTML         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Go           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python       14 hrs 22 mins  ██████████████░░░░░░░░░░░   55.92 %
+Java         9 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   36.94 %
+HTML         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Go           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
