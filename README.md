@@ -4,14 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 22 July 2025 - To: 20 January 2026
+From: 23 July 2025 - To: 21 January 2026
 
-Total Time: 1 hr 11 mins
+Total Time: 52 mins
 
-HTML       18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-Markdown   14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.07 %
-Go         10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Other      7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+HTML       18 mins         ████████▓░░░░░░░░░░░░░░░░   34.37 %
+Markdown   14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+Other      7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
 ```
 
 <!--END_SECTION:waka-->
