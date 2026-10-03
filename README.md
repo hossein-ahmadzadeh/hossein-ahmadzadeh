@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 April 2026 - To: 30 September 2026
+From: 02 April 2026 - To: 01 October 2026
 
 Total Time: 0 secs
 
